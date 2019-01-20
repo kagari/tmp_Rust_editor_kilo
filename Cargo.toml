@@ -5,3 +5,5 @@ authors = ["kagari <e175766@ie.u-ryukyu.ac.jp>"]
 edition = "2018"
 
 [dependencies]
+termion = "1"
+clap = "2"
